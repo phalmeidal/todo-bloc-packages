@@ -1,5 +1,3 @@
-// Additional tests for TaskBloc
-
 import 'package:flutter_test/flutter_test.dart';
 import 'package:todo_bloc_packages/app/data/blocs/task_bloc.dart';
 import 'package:todo_bloc_packages/app/data/blocs/task_event.dart';
